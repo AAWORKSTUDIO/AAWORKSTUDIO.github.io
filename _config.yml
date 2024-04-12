@@ -2,4 +2,4 @@ title: AAWORKSTUDIO
 logo: /assets/img/aaimg.png
 description: Welcome to our portfolio! We specialize in web development, crafting immersive digital experiences that blend creativity with functionality. With a keen eye for design and a knack for coding, We bring websites to life, ensuring they are responsive, intuitive, and visually engaging. Explore our projects to see how I combine cutting-edge technologies with elegant design to create impactful online solutions.
 show_dowmloads: false
-theme: Cayman-theme
+theme: jekyll-theme-cayman
